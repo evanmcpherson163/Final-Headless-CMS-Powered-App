@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Stan Marsh",
+        "hair": "Black Hair",
+        "grade": "4th grade",
+        "voice": "Trey Parker",
+        "id": 1
+    },
+    {
+        "name": "Kyle Broflovski",
+        "hair": "Red Hair",
+        "grade": "4th grade",
+        "voice": "Matt Stone",
+        "id" : 2
+    },
+    {
+        "name": "Eric Cartman",
+        "hair": "Brown Hair",
+        "grade": "4th grade",
+        "voice": "Trey Parker",
+        "id" : 3
+    },
+    {
+        
+        "name": "Kenny McCormick",
+        "hair": "Blonde Hair",
+        "grade": "4th grade",
+        "voice": "Matt Stone",
+        "id" : 4
+    }
+]
