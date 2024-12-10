@@ -6,7 +6,7 @@ import got from 'got';
 
 // const dataDirectory = path.join( process.cwd(), 'data' );
 
-const dataURL = "https://dev-headless-cms-powered-app.pantheonsite.io/wp-json/twentytwentyone-child/v1/places";
+const dataURL = "https://dev-headless-cms-powered-app.pantheonsite.io/wp-json/twentytwentyone-child/v1/shows";
 
 
 
