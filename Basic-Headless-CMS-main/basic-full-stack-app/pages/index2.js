@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import localFont from "next/font/local";
 import styles from "@/styles/Home.module.css";
-import Layout from '../../components/layout';
+import Layout from '../components/layout';
 import Link from "next/link";
 import { getSortedList } from "@/library/data2";
 
