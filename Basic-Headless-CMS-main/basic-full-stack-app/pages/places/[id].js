@@ -1,5 +1,5 @@
 // import Layout
-import Layout from '../components/layout';
+import Layout from '../../components/layout';
 import { getAllIds, getData} from "../../library/data";
 // any file name enclosed in [] expects to see both getStaticProps() and getStaticPaths() named exactly as shown
 // define a getStaticProps() function to have next.js retreive data to use for the dynamic page - this name is defined by next.js
